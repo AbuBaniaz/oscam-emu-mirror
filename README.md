@@ -4,7 +4,7 @@ OSCam-Emu: Open Source CAM with Emulator
 
 Wiki
 ====
-https://git.streamboard.tv/common/oscam/-/wikis/home
+https://git.streamboard.info/common/oscam/-/wikis/home
 
 License
 =======
@@ -49,7 +49,7 @@ GIT repository:
 Building OSCam-Emu from source
 ==========================
 
-https://git.streamboard.tv/common/oscam/-/wikis/BuildingOscam
+https://git.streamboard.info/common/oscam/-/wikis/BuildingOscam
 
 For more information and examples on using the build system, please
 see README.build and README.config files.
@@ -61,7 +61,7 @@ Building OSCam-Emu for different CPUs (cross-compilation)
 First you need to install the target CPU toolchain. Already built toolchains
 for various architectures can be downloaded from:
 
-    https://git.streamboard.tv/common/oscam/-/wikis/CrossCompiling
+    https://git.streamboard.info/common/oscam/-/wikis/CrossCompiling
 
 In order to cross compile OSCam-Emu you need to set CROSS variable when
 running make. For example to compile for SH4 architecture you need
